@@ -1,0 +1,30 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    border: 0px;
+}
+
+body{
+    background: rgb(139, 139, 247);
+}
+
+h1{
+    text-align: center;
+    font-size: 2cm;
+}
+
+#actuPlace{
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+nom-date{
+    font-size: 1.40cm;
+}
+
+texte{
+    font-size: 1cm;
+}
